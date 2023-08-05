@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhil-thomas-2029061b3/)](https://www.linkedin.com/in/akhil-thomas-2029061b3/)
+[![Linkedin Badge](https://img.shields.io/badge/-Akhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhil-thomas-2029061b3/)](https://www.linkedin.com/in/akhil-thomas-2029061b3/)
 
 I'm
 MERN Stack Developer
